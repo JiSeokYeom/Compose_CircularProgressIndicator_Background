@@ -1,4 +1,4 @@
-package com.healnessbook.composecircularprogresslib
+package com.jiseokyeom.composecircularprogresslib
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.healnessbook.composecircularprogresslib
+package com.jiseokyeom.composecircularprogresslib
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.Box

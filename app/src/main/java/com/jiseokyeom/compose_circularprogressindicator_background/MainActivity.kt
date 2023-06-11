@@ -1,20 +1,15 @@
-package com.healnessbook.compose_circularprogressindicator_background
+package com.jiseokyeom.compose_circularprogressindicator_background
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.size
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.material.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.healnessbook.compose_circularprogressindicator_background.ui.theme.Compose_CircularProgressIndicator_BackgroundTheme
 import com.healnessbook.composecircularprogresslib.CustomCircularProgressIndicatorWithBackground
+import com.jiseokyeom.compose_circularprogressindicator_background.ui.theme.Compose_CircularProgressIndicator_BackgroundTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

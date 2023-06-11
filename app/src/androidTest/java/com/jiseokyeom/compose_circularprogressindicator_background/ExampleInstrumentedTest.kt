@@ -1,4 +1,4 @@
-package com.healnessbook.composecircularprogresslib
+package com.jiseokyeom.compose_circularprogressindicator_background
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,9 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.healnessbook.composecircularprogresslib.test", appContext.packageName)
+        assertEquals(
+            "com.healnessbook.compose_circularprogressindicator_background",
+            appContext.packageName
+        )
     }
 }

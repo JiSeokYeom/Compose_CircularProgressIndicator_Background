@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Compose_CircularProgressIndicator_Background"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.jiseokyeom.compose_circularprogressindicator_background.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Compose_CircularProgressIndicator_Background">

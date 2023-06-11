@@ -1,4 +1,4 @@
-package com.healnessbook.compose_circularprogressindicator_background.ui.theme
+package com.jiseokyeom.compose_circularprogressindicator_background.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

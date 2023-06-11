@@ -1,4 +1,4 @@
-package com.healnessbook.compose_circularprogressindicator_background
+package com.jiseokyeom.compose_circularprogressindicator_background
 
 import org.junit.Test
 
