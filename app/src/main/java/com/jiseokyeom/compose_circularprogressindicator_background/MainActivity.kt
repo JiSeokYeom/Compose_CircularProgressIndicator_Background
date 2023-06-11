@@ -8,8 +8,8 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.healnessbook.composecircularprogresslib.CustomCircularProgressIndicatorWithBackground
 import com.jiseokyeom.compose_circularprogressindicator_background.ui.theme.Compose_CircularProgressIndicator_BackgroundTheme
+import com.jiseokyeom.composecircularprogresslib.CustomCircularProgressIndicatorWithBackground
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
