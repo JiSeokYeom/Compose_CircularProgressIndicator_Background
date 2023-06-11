@@ -10,7 +10,7 @@
 
 ## Preview
 
-<img src = "https://github.com/JiSeokYeom/Compose_CircularProgressIndicator_Background/assets/38849158/9db987f5-7654-4037-8bcb-6cca2499d2cb.png" width="30%" height="30%">
+<img src = "https://github.com/JiSeokYeom/Compose_CircularProgressIndicator_Background/assets/38849158/bcd50553-3814-4ba2-a29b-541ac0e4f3f4.png" width="30%" height="30%">
 
 ## How to add to your project
 
