@@ -29,7 +29,7 @@ Add dependencies for Jitpack in build.gradle(project)
 Add dependencies for libraries in build.gradle(module)
 ```bash
   	dependencies {
-	        implementation 'com.github.JiSeokYeom:Compose_CircularProgressIndicator_Background:LATEST_VERSION'
+	        implementation 'com.github.JiSeokYeom:Compose_CircularProgressIndicator_Background:v[$LATEST_VERSION]'
 	}
 ```
 
